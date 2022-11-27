@@ -1,0 +1,133 @@
+a:link {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    color: #79186d;
+    text-decoration: none;
+    }
+    a:hover {
+    font-size: 22px;
+    font-style: italic;
+    font-weight: bold;
+    color: #d6fffd;
+    text-decoration: blink;
+    }
+
+    a:visited {
+    color: #fceff7;
+    }
+
+    a:active {
+    font-size: 18px;
+    color: #66328c;
+    text-decoration: blink;
+    }
+
+    #container {
+
+    width: 100%;
+    margin: 0 0;
+    height: 700px;
+    }
+    
+    /* #nav {
+    background-color: #ac80ff;
+    width: 20%;
+    height: 370px;
+    padding-top: 210px;
+    text-align: center;
+    float: left;
+    } */
+    
+    #fon {
+    height: 700px;
+    background-image: url(images/fon-disnei_1.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    /* height: 302,038px; */
+    }
+
+    #text{
+        background-color: #ffb4feae;
+        width: 650px;
+        height: 490px;
+        padding-top: 2px;
+        margin-left: 30px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    
+    /* #footer {
+    background-color:#a633a6;
+    width: 100%;
+    height: 40px;
+    clear: both;
+    color: rgb(229, 208, 244);
+    text-align: center;
+    font-size: 18px;
+    } */
+    
+    /* .sidebar{
+        background: rgb(140, 129, 208);
+        float: right;
+        width: 30%;
+        height: 580px;
+    
+    } */
+    
+    .content-0{
+        color: rgb(51, 16, 82);
+        font-family: "Times New Roman", Times, Impact;
+        font-size: 30px;
+        font-style: italic;
+        font-weight: bold;
+        text-align: center;
+        margin-bottom: 0;
+    }
+
+    .content-1{
+    color: rgb(51, 16, 82);
+    font-family: "Times New Roman", Times, Impact;
+    font-size: 22px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0;
+    }
+    
+    .content-2{
+    color: rgb(98, 11, 144);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, serif;
+    font-size: 14px;
+    text-align: justify;
+    /* padding-right: 310px; */
+    }
+
+    .content-3{
+        color: rgb(51, 16, 82);
+        font-family: "Times New Roman", Times, Impact;
+        font-size: 22px;
+        font-style: italic;
+        text-align: right;
+        margin-bottom: 0;
+    }
+    
+    img{
+        top: 435px;
+        left: 10px;
+        position: absolute;
+        width: 290px;
+        height: 250px;
+    }
+
+    .iframe{
+        float: right;
+        position: absolute;
+        left: 600px;
+        top: -550px;
+    }
+
+    .iframe-1{
+        float: right;
+        position: absolute;
+        left: 1100px;
+        top: -380px;
+    }
